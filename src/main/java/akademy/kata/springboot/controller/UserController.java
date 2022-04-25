@@ -1,4 +1,4 @@
-package akademy.kata.springboot.Controller;
+package akademy.kata.springboot.controller;
 
 import akademy.kata.springboot.model.User;
 import akademy.kata.springboot.service.UserService;
